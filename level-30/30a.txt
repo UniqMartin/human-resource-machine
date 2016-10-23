@@ -1,0 +1,17 @@
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+    INBOX
+    COPYTO   24
+b:
+    COPYFROM [24]
+    JUMPZ    a
+    OUTBOX
+    BUMPUP   24
+    JUMP     b
+
+
+DEFINE LABEL 24
+eJwTYmBg+J9bF/o/V3Zjdb7zmVv5Wrtk8qevkclXi/5eUOizq5rBQa15ry1ja5tLbds1/9q2rriE1unp
+ZrXO7W7lAROKiwImzCh43cMwCkbBKBiSAACt/h9s;
+

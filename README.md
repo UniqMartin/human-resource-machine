@@ -41,6 +41,7 @@ The “Challenge” column lists the targets for the size (the number of instruc
 | 27 | *Midnight Petroleum* | *N/A* | *N/A* | *N/A* | *N/A* |
 | 28 | Three Sort | 34/78 | [Code][28a] – 34/143 | [Code][28b] – 62/78 | [Code][28c] – 35/110 |
 | 29 | Storage Floor | 5/25 | [Code][29a] – 5/25 | — | — |
+| 30 | String Storage Floor | 7/203 | [Code][30a] – 7/203 | — | — |
 
 [01a]: level-01/01a.txt
 [02a]: level-02/02a.txt
@@ -81,6 +82,7 @@ The “Challenge” column lists the targets for the size (the number of instruc
 [28b]: level-28/28b.txt
 [28c]: level-28/28c.txt
 [29a]: level-29/29a.txt
+[30a]: level-30/30a.txt
 
 ## License
 
