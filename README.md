@@ -25,6 +25,7 @@ The “Challenge” column lists the targets for the size (the number of instruc
 | 11 | Sub Hallway | 10/40 | [Code][11a] – 10/40 | — | — |
 | 12 | Tetracontiplier | 14/56 | [Code][12a] – 14/56 | — | — |
 | 13 | Equalization Room | 9/27 | [Code][13a] – 9/28 | [Code][13b] – 14/**26** | — |
+| 14 | Maximization Room | 10/34 | [Code][14a] – 10/**31** | — | — |
 
 [01a]: level-01/01a.txt
 [02a]: level-02/02a.txt
@@ -44,6 +45,7 @@ The “Challenge” column lists the targets for the size (the number of instruc
 [12a]: level-12/12a.txt
 [13a]: level-13/13a.txt
 [13b]: level-13/13b.txt
+[14a]: level-14/14a.txt
 
 ## License
 
