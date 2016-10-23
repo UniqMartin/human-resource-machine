@@ -33,6 +33,7 @@ The “Challenge” column lists the targets for the size (the number of instruc
 | 19 | Countdown | 10/82 | [Code][19a] – 10/114 | [Code][19b] – 15/82 | — |
 | 20 | Multiplication Workshop | 15/109 | [Code][20a] – **14**/176 | [Code][20b] – 29/**103** | — |
 | 21 | Zero Terminated Sum | 10/72 | [Code][21a] – 10/92 | [Code][21b] – 13/72 | — |
+| 22 | Fibonacci Visitor | 19/156 | [Code][22a] – 19/160 | [Code][22b] – 32/**112** | — |
 
 [01a]: level-01/01a.txt
 [02a]: level-02/02a.txt
@@ -62,6 +63,8 @@ The “Challenge” column lists the targets for the size (the number of instruc
 [20b]: level-20/20b.txt
 [21a]: level-21/21a.txt
 [21b]: level-21/21b.txt
+[22a]: level-22/22a.txt
+[22b]: level-22/22b.txt
 
 ## License
 
