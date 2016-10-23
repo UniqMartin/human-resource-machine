@@ -19,6 +19,7 @@ The “Challenge” column lists the targets for the size (the number of instruc
 | 5 | *Coffee Time* | *N/A* | *N/A* | *N/A* | *N/A* |
 | 6 | Rainy Summer | 6/24 | [Code][06a] – 6/24 | — | — |
 | 7 | Zero Exterminator | 4/23 | [Code][07a] – 4/27 | [Code][07b] – 7/23 | [Code][07c] – 10/**21** |
+| 8 | Tripler Room | 6/24 | [Code][08a] – 6/24 | — | — |
 
 [01a]: level-01/01a.txt
 [02a]: level-02/02a.txt
@@ -30,6 +31,7 @@ The “Challenge” column lists the targets for the size (the number of instruc
 [07a]: level-07/07a.txt
 [07b]: level-07/07b.txt
 [07c]: level-07/07c.txt
+[08a]: level-08/08a.txt
 
 ## License
 
