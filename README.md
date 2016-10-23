@@ -38,6 +38,8 @@ The “Challenge” column lists the targets for the size (the number of instruc
 | 24 | Mod Module | 12/57 | [Code][24a] – 12/57 | — | — |
 | 25 | Cumulative Countdown | 12/82 | [Code][25a] – 12/82 | — | — |
 | 26 | Small Divide | 15/76 | [Code][26a] – 15/80 | [Code][26b] – 25/76 | — |
+| 27 | *Midnight Petroleum* | *N/A* | *N/A* | *N/A* | *N/A* |
+| 28 | Three Sort | 34/78 | [Code][28a] – 34/143 | [Code][28b] – 62/78 | [Code][28c] – 35/110 |
 
 [01a]: level-01/01a.txt
 [02a]: level-02/02a.txt
@@ -74,6 +76,9 @@ The “Challenge” column lists the targets for the size (the number of instruc
 [25a]: level-25/25a.txt
 [26a]: level-26/26a.txt
 [26b]: level-26/26b.txt
+[28a]: level-28/28a.txt
+[28b]: level-28/28b.txt
+[28c]: level-28/28c.txt
 
 ## License
 
