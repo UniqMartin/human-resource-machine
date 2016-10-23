@@ -35,6 +35,7 @@ The “Challenge” column lists the targets for the size (the number of instruc
 | 21 | Zero Terminated Sum | 10/72 | [Code][21a] – 10/92 | [Code][21b] – 13/72 | — |
 | 22 | Fibonacci Visitor | 19/156 | [Code][22a] – 19/160 | [Code][22b] – 32/**112** | — |
 | 23 | The Littlest Number | 13/75 | [Code][23a] – 13/75 | — | — |
+| 24 | Mod Module | 12/57 | [Code][24a] – 12/57 | — | — |
 
 [01a]: level-01/01a.txt
 [02a]: level-02/02a.txt
@@ -67,6 +68,7 @@ The “Challenge” column lists the targets for the size (the number of instruc
 [22a]: level-22/22a.txt
 [22b]: level-22/22b.txt
 [23a]: level-23/23a.txt
+[24a]: level-24/24a.txt
 
 ## License
 

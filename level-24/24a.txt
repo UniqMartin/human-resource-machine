@@ -1,0 +1,34 @@
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+    INBOX
+    COPYTO   0
+    INBOX
+    COPYTO   1
+    COPYFROM 0
+b:
+    SUB      1
+    JUMPZ    d
+    JUMPN    c
+    JUMP     b
+c:
+    ADD      1
+d:
+    OUTBOX
+    JUMP     a
+
+
+DEFINE LABEL 0
+eJyzYmBgSLa112iwiwnhdP+zntP96DZO99LVjF7Pi2q9p6fP8pkfdsUvwDs3MNX5b5iz042INpfC6JiQ
+vpizCSfi9PqfxlvPkE/K3QM0huFRjrPTo5yQVTL5ooe2FgZczS5Ve5pckfncrsr92a7quvtfakUPcTZ1
+xXE2RVgdb2rKr22rOjqr/f1rkN5/E+/Z/ZuotkB68ucDW6bW3d8y9cfU/ukR9dwzjxb+mhcTUrbgmn/e
+4kKfo8sKfRaskAySWbUmfuuae83ZG3gvr11/qaphS2as4K7Jvqv2BHgv2h/gXXtQMujj0c/V649lLlp/
+rPAawygYBaMAKwAAQVJvwA;
+
+DEFINE LABEL 1
+eJxzZmBgKIwO8G4M1fNi9HJ2+uLk7GRnH+B9yHZ+WLLt+8RDtiu6vjiZHz7vwnCK0935jJqH85kEr73H
+t/tOX2Ps/2Pq8uBKa+XQGH7lUAYwWAik7cOO6tyIUIvuizGrU4/n7VuckLmoLmnn2rqkpi0gNWtLqhoO
+VVQ1zK0SrX3TcCuTs+lsAmfTwXC9Bh7PihpFR5YKRcethfPDZhS4x+zNS8iLy1NbsDcvZFVY4YZ92aW8
+lw9VSN6ZW1V3/03DwYecTXX31ZrbzoHMfTghJuThhD9Z/ybq9RtMv7T/2azXF11nz58tPzchL3K+YDL/
+4kcRcSvnh31f/SjCb/2a+IYtWqXR26oaCnatWdK7e8lWhlEwCkYgAAA+FnZo;
+
