@@ -28,6 +28,7 @@ The “Challenge” column lists the targets for the size (the number of instruc
 | 14 | Maximization Room | 10/34 | [Code][14a] – 10/**31** | — | — |
 | 15 | *Employee Morale Insertion* | *N/A* | *N/A* | *N/A* | *N/A* |
 | 16 | Absolute Positivity | 8/36 | [Code][16a] – 8/**34** | — | — |
+| 17 | Exclusive Lounge | 12/28 | [Code][17a] – 12/31 | [Code][17b] – 13/28 | — |
 
 [01a]: level-01/01a.txt
 [02a]: level-02/02a.txt
@@ -49,6 +50,8 @@ The “Challenge” column lists the targets for the size (the number of instruc
 [13b]: level-13/13b.txt
 [14a]: level-14/14a.txt
 [16a]: level-16/16a.txt
+[17a]: level-17/17a.txt
+[17b]: level-17/17b.txt
 
 ## License
 
