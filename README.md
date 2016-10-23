@@ -50,6 +50,7 @@ The “Challenge” column lists the targets for the size (the number of instruc
 | 36 | Alphabetizer | 39/109 | [Code][36a] – **35**/109 | [Code][36b] – 59/**98** | — |
 | 37 | Scavenger Chain | 8/63 | [Code][37a] – 8/63 | — | — |
 | 38 | Digit Exploder | 30/165 | [Code][38a] – **29**/211 | [Code][38b] – 140/**122** | [Code][38c] – 88/**142** |
+| 39 | Re-Coordinator | 14/76 | [Code][39a] – 14/88 | [Code][39b] – 20/76 | — |
 
 [01a]: level-01/01a.txt
 [02a]: level-02/02a.txt
@@ -104,6 +105,8 @@ The “Challenge” column lists the targets for the size (the number of instruc
 [38a]: level-38/38a.txt
 [38b]: level-38/38b.txt
 [38c]: level-38/38c.txt
+[39a]: level-39/39a.txt
+[39b]: level-39/39b.txt
 
 ## License
 
