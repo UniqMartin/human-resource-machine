@@ -16,6 +16,8 @@ The “Challenge” column lists the targets for the size (the number of instruc
 | 2 | Busy Mail Room | 3/25 | [Code][02a] – 3/30| [Code][02b] – 5/25 | [Code][02c] – 9/**22** |
 | 3 | Copy Floor | 6/6 | [Code][03a] – 6/6 | — | — |
 | 4 | Scrambler Handler | 7/21 | [Code][04a] – 7/21 | — | — |
+| 5 | *Coffee Time* | *N/A* | *N/A* | *N/A* | *N/A* |
+| 6 | Rainy Summer | 6/24 | [Code][06a] – 6/24 | — | — |
 
 [01a]: level-01/01a.txt
 [02a]: level-02/02a.txt
@@ -23,6 +25,7 @@ The “Challenge” column lists the targets for the size (the number of instruc
 [02c]: level-02/02c.txt
 [03a]: level-03/03a.txt
 [04a]: level-04/04a.txt
+[06a]: level-06/06a.txt
 
 ## License
 
