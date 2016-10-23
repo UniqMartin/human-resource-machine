@@ -47,6 +47,7 @@ The “Challenge” column lists the targets for the size (the number of instruc
 | 33 | *Where's Carol?* | *N/A* | *N/A* | *N/A* | *N/A* |
 | 34 | Vowel Incinerator | 13/323 | [Code][34a] – 13/**321** | — | — |
 | 35 | Duplicate Removal | 17/167 | [Code][35a] – **16**/186 | [Code][35b] – 34/**138** | [Code][35c] – 17/190 |
+| 36 | Alphabetizer | 39/109 | [Code][36a] – **35**/109 | [Code][36b] – 59/**98** | — |
 
 [01a]: level-01/01a.txt
 [02a]: level-02/02a.txt
@@ -95,6 +96,8 @@ The “Challenge” column lists the targets for the size (the number of instruc
 [35a]: level-35/35a.txt
 [35b]: level-35/35b.txt
 [35c]: level-35/35c.txt
+[36a]: level-36/36a.txt
+[36b]: level-36/36b.txt
 
 ## License
 
