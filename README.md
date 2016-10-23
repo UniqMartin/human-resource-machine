@@ -29,6 +29,8 @@ The “Challenge” column lists the targets for the size (the number of instruc
 | 15 | *Employee Morale Insertion* | *N/A* | *N/A* | *N/A* | *N/A* |
 | 16 | Absolute Positivity | 8/36 | [Code][16a] – 8/**34** | — | — |
 | 17 | Exclusive Lounge | 12/28 | [Code][17a] – 12/31 | [Code][17b] – 13/28 | — |
+| 18 | *Sabbatical Beach Paradise* | *N/A* | *N/A* | *N/A* | *N/A* |
+| 19 | Countdown | 10/82 | [Code][19a] – 10/114 | [Code][19b] – 15/82 | — |
 
 [01a]: level-01/01a.txt
 [02a]: level-02/02a.txt
@@ -52,6 +54,8 @@ The “Challenge” column lists the targets for the size (the number of instruc
 [16a]: level-16/16a.txt
 [17a]: level-17/17a.txt
 [17b]: level-17/17b.txt
+[19a]: level-19/19a.txt
+[19b]: level-19/19b.txt
 
 ## License
 
