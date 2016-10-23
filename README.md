@@ -24,6 +24,7 @@ The “Challenge” column lists the targets for the size (the number of instruc
 | 10 | Octoplier Suite | 9/36 | [Code][10a] – 9/36 | — | — |
 | 11 | Sub Hallway | 10/40 | [Code][11a] – 10/40 | — | — |
 | 12 | Tetracontiplier | 14/56 | [Code][12a] – 14/56 | — | — |
+| 13 | Equalization Room | 9/27 | [Code][13a] – 9/28 | [Code][13b] – 14/**26** | — |
 
 [01a]: level-01/01a.txt
 [02a]: level-02/02a.txt
@@ -41,6 +42,8 @@ The “Challenge” column lists the targets for the size (the number of instruc
 [10a]: level-10/10a.txt
 [11a]: level-11/11a.txt
 [12a]: level-12/12a.txt
+[13a]: level-13/13a.txt
+[13b]: level-13/13b.txt
 
 ## License
 
