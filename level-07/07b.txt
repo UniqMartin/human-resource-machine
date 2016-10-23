@@ -1,0 +1,14 @@
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+a:
+    INBOX
+    JUMPZ    b
+    OUTBOX
+b:
+    INBOX
+    JUMPZ    c
+    OUTBOX
+c:
+    JUMP     a
+
+
