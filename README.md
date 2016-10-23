@@ -49,6 +49,7 @@ The “Challenge” column lists the targets for the size (the number of instruc
 | 35 | Duplicate Removal | 17/167 | [Code][35a] – **16**/186 | [Code][35b] – 34/**138** | [Code][35c] – 17/190 |
 | 36 | Alphabetizer | 39/109 | [Code][36a] – **35**/109 | [Code][36b] – 59/**98** | — |
 | 37 | Scavenger Chain | 8/63 | [Code][37a] – 8/63 | — | — |
+| 38 | Digit Exploder | 30/165 | [Code][38a] – **29**/211 | [Code][38b] – 140/**122** | [Code][38c] – 88/**142** |
 
 [01a]: level-01/01a.txt
 [02a]: level-02/02a.txt
@@ -100,6 +101,9 @@ The “Challenge” column lists the targets for the size (the number of instruc
 [36a]: level-36/36a.txt
 [36b]: level-36/36b.txt
 [37a]: level-37/37a.txt
+[38a]: level-38/38a.txt
+[38b]: level-38/38b.txt
+[38c]: level-38/38c.txt
 
 ## License
 
