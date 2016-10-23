@@ -52,6 +52,8 @@ The “Challenge” column lists the targets for the size (the number of instruc
 | 38 | Digit Exploder | 30/165 | [Code][38a] – **29**/211 | [Code][38b] – 140/**122** | [Code][38c] – 88/**142** |
 | 39 | Re-Coordinator | 14/76 | [Code][39a] – 14/88 | [Code][39b] – 20/76 | — |
 | 40 | Prime Factory | 28/399 | [Code][40a] – 28/569 | [Code][40b] – 44/**377** | — |
+| 41 | Sorting Floor | 34/714 | [Code][41a] – **31**/831 | [Code][41b] – 59/**671** | [Code][41c] – **32**/1688 |
+| 42 | *End Program. Congratulations.* | *N/A* | *N/A* | *N/A* | *N/A* |
 
 [01a]: level-01/01a.txt
 [02a]: level-02/02a.txt
@@ -110,6 +112,9 @@ The “Challenge” column lists the targets for the size (the number of instruc
 [39b]: level-39/39b.txt
 [40a]: level-40/40a.txt
 [40b]: level-40/40b.txt
+[41a]: level-41/41a.txt
+[41b]: level-41/41b.txt
+[41c]: level-41/41c.txt
 
 ## License
 
