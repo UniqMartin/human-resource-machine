@@ -26,6 +26,8 @@ The “Challenge” column lists the targets for the size (the number of instruc
 | 12 | Tetracontiplier | 14/56 | [Code][12a] – 14/56 | — | — |
 | 13 | Equalization Room | 9/27 | [Code][13a] – 9/28 | [Code][13b] – 14/**26** | — |
 | 14 | Maximization Room | 10/34 | [Code][14a] – 10/**31** | — | — |
+| 15 | *Employee Morale Insertion* | *N/A* | *N/A* | *N/A* | *N/A* |
+| 16 | Absolute Positivity | 8/36 | [Code][16a] – 8/**34** | — | — |
 
 [01a]: level-01/01a.txt
 [02a]: level-02/02a.txt
@@ -46,6 +48,7 @@ The “Challenge” column lists the targets for the size (the number of instruc
 [13a]: level-13/13a.txt
 [13b]: level-13/13b.txt
 [14a]: level-14/14a.txt
+[16a]: level-16/16a.txt
 
 ## License
 
