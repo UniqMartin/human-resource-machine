@@ -43,6 +43,7 @@ The “Challenge” column lists the targets for the size (the number of instruc
 | 29 | Storage Floor | 5/25 | [Code][29a] – 5/25 | — | — |
 | 30 | String Storage Floor | 7/203 | [Code][30a] – 7/203 | — | — |
 | 31 | String Reverse | 11/122 | [Code][31a] – 11/**118** | — | — |
+| 32 | Inventory Report | 16/393 | [Code][32a] – 16/477 | [Code][32b] – 17/**390** | — |
 
 [01a]: level-01/01a.txt
 [02a]: level-02/02a.txt
@@ -85,6 +86,8 @@ The “Challenge” column lists the targets for the size (the number of instruc
 [29a]: level-29/29a.txt
 [30a]: level-30/30a.txt
 [31a]: level-31/31a.txt
+[32a]: level-32/32a.txt
+[32b]: level-32/32b.txt
 
 ## License
 
