@@ -37,6 +37,7 @@ The “Challenge” column lists the targets for the size (the number of instruc
 | 23 | The Littlest Number | 13/75 | [Code][23a] – 13/75 | — | — |
 | 24 | Mod Module | 12/57 | [Code][24a] – 12/57 | — | — |
 | 25 | Cumulative Countdown | 12/82 | [Code][25a] – 12/82 | — | — |
+| 26 | Small Divide | 15/76 | [Code][26a] – 15/80 | [Code][26b] – 25/76 | — |
 
 [01a]: level-01/01a.txt
 [02a]: level-02/02a.txt
@@ -71,6 +72,8 @@ The “Challenge” column lists the targets for the size (the number of instruc
 [23a]: level-23/23a.txt
 [24a]: level-24/24a.txt
 [25a]: level-25/25a.txt
+[26a]: level-26/26a.txt
+[26b]: level-26/26b.txt
 
 ## License
 
