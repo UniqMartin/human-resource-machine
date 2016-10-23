@@ -14,11 +14,13 @@ The “Challenge” column lists the targets for the size (the number of instruc
 | ---: | --- | --- | --- | --- | --- |
 | 1 | Mail Room | 6/6 | [Code][01a] – 6/6 | — | — |
 | 2 | Busy Mail Room | 3/25 | [Code][02a] – 3/30| [Code][02b] – 5/25 | [Code][02c] – 9/**22** |
+| 3 | Copy Floor | 6/6 | [Code][03a] – 6/6 | — | — |
 
 [01a]: level-01/01a.txt
 [02a]: level-02/02a.txt
 [02b]: level-02/02b.txt
 [02c]: level-02/02c.txt
+[03a]: level-03/03a.txt
 
 ## License
 
