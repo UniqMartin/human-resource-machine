@@ -23,6 +23,7 @@ The “Challenge” column lists the targets for the size (the number of instruc
 | 9 | Zero Preservation Initiative | 5/25 | [Code][09a] – 5/28 | [Code][09b] – 7/25 | — |
 | 10 | Octoplier Suite | 9/36 | [Code][10a] – 9/36 | — | — |
 | 11 | Sub Hallway | 10/40 | [Code][11a] – 10/40 | — | — |
+| 12 | Tetracontiplier | 14/56 | [Code][12a] – 14/56 | — | — |
 
 [01a]: level-01/01a.txt
 [02a]: level-02/02a.txt
@@ -39,6 +40,7 @@ The “Challenge” column lists the targets for the size (the number of instruc
 [09b]: level-09/09b.txt
 [10a]: level-10/10a.txt
 [11a]: level-11/11a.txt
+[12a]: level-12/12a.txt
 
 ## License
 
